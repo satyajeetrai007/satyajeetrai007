@@ -72,6 +72,19 @@
 </div>
 
 ---
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis">
+    <img src="https://img.shields.io/badge/YT-Comment_Sentiment-orange?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Analyzer-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/satyajeetrai007/SMS-Spam-Classifier">
+    <img src="https://img.shields.io/badge/Spam_SMS_Classifier-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ### 🌱 Now Learning
 <p align="center">
