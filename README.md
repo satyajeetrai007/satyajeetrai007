@@ -1,7 +1,4 @@
-<!--
-    GitHub Profile README for Satyajeet Rai
-    Features: Stats, Skills, Projects, Contact, Colorful Badges, Aesthetic Layout
--->
+<!-- GitHub Profile README for Satyajeet Rai -->
 
 <h1 align="center">Hi 👋, I'm Satyajeet Rai</h1>
 <h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning | Aspiring Researcher</h3>
@@ -29,49 +26,50 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical&exclude_repo=robot-project" />
 </p>
 
-
 ---
 
 ## 💻 Skills
 <p align="center">
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3.11-gradient?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-11-gradient?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-gradient?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<!-- Programming Languages -->
-<img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-11-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" />
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/PyTorch-gradient?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-gradient?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLOps-gradient?style=for-the-badge" />
 
+  <!-- Core CS & Math -->
+  <img src="https://img.shields.io/badge/DSA-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistics-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Probability-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Calculus-gradient?style=for-the-badge" />
 
-
-<!-- AI / ML Frameworks -->
-<img src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-4.8-blue?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MLOps-purple?style=for-the-badge" />
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-red?style=for-the-badge" />
-
-
-<!-- Core CS & Math -->
-<img src="https://img.shields.io/badge/DSA-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistics-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linear_Algebra-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Probability-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Calculus-pink?style=for-the-badge" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-gradient?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-gradient?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-gradient?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| **YT Comment Sentiment** | Sentiment Analysis + Summarization using Gemini API| [GitHub](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis) |
-| **WhatsApp Chat Analyzer** | Analyze WhatsApp group and personal chats | [GitHub](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat) |
-| **Spam SMS Classifier** |Classification Using Multinomial Naive Bayes | [GitHub](https://github.com/satyajeetrai007/SMS-Spam-Classifier) |
+<div align="center">
+  <a href="https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis">
+    <img src="https://img.shields.io/badge/YT-Comment_Sentiment-orange?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat_Analyzer-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/satyajeetrai007/SMS-Spam-Classifier">
+    <img src="https://img.shields.io/badge/Spam_SMS_Classifier-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 ---
 
@@ -88,8 +86,12 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/satyajeet-rai-336617257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:satyajeet0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/satyajeet-rai-336617257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:satyajeet0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
