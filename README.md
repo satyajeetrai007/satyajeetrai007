@@ -69,16 +69,18 @@
 |---------|-------------|------|
 | **YT Comment Sentiment** | Sentiment Analysis + Summarization using Gemini API| [GitHub](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis) |
 | **WhatsApp Chat Analyzer** | Analyze WhatsApp group and personal chats | [GitHub](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat) |
-| **Spam SMS Classifier ** |Classification Using Multinomial Naive Bayes | [GitHub](https://github.com/satyajeetrai007/SMS-Spam-Classifier) |
+| **Spam SMS Classifier** |Classification Using Multinomial Naive Bayes | [GitHub](https://github.com/satyajeetrai007/SMS-Spam-Classifier) |
 
 ---
 
 ### 🌱 Now Learning
-<img src="https://img.shields.io/badge/Langchain-%23FF6F61?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Langgraph-%2300CFFF?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Langsmith-%23FFCB05?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced_ML-%23C70039?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT_Robotics-%2300A86B?style=for-the-badge&logo=arduino&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Langchain-%23FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langgraph-%2300CFFF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langsmith-%23FFCB05?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_ML-%23C70039?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Robotics-%2300A86B?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
 
 ---
 
