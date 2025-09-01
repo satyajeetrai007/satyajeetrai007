@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Satyajeet Rai -->
 
 <h1 align="center">Hi 👋, I'm Satyajeet Rai</h1>
-<h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning | Aspiring Researcher</h3>
+<h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyajeetrai007&color=brightgreen" alt="Profile views" />
