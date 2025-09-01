@@ -25,8 +25,10 @@
 
 ## 🌈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&count_private=true&theme=radical
+)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical&exclude_repo=robot-project
+)" />
 </p>
 
 ---
@@ -66,9 +68,9 @@
 ## 🌟 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **YT Comment Sentiment** | Sentiment Analysis + Summarization using Gemini API | [GitHub](https://github.com/satyajeetrai007/yt-comment-sentiment) |
-| **Face Recognition Attendance** | Attendance system using FaceNet + Python | [GitHub](https://github.com/satyajeetrai007/face-attendance) |
-| **WhatsApp Chat Analyzer** | Analyze WhatsApp group and personal chats | [GitHub](https://github.com/satyajeetrai007/robot-project) |
+| **YT Comment Sentiment** | Sentiment Analysis + Summarization using Gemini API| [GitHub](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis) |
+| **WhatsApp Chat Analyzer** | Analyze WhatsApp group and personal chats | [GitHub](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat) |
+| **Spam SMS Classifier ** |Classification Using Multinomial Naive Bayes | [GitHub](https://github.com/satyajeetrai007/SMS-Spam-Classifier) |
 
 ---
 
