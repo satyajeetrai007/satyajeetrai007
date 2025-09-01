@@ -1,4 +1,7 @@
-<!-- GitHub Profile README for Satyajeet Rai -->
+<!--
+GitHub Profile README for Satyajeet Rai
+Features: Stats, Skills, Projects, Contact, Animated Skill Bars, Aesthetic Layout
+-->
 
 <h1 align="center">Hi 👋, I'm Satyajeet Rai</h1>
 <h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning | Aspiring Researcher</h3>
@@ -28,32 +31,56 @@
 
 ---
 
-## 💻 Skills
+## 💻 Skills & Proficiency
+
+### Programming Languages
 <p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-3.11-gradient?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-11-gradient?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-gradient?style=for-the-badge&logo=mysql&logoColor=white" />
+Python  
+<img src="https://progress-bar.dev/95/?title=Python&suffix=%25&color=blue" />  
+C++  
+<img src="https://progress-bar.dev/85/?title=C%2B%2B&suffix=%25&color=yellow" />  
+SQL  
+<img src="https://progress-bar.dev/80/?title=SQL&suffix=%25&color=lightgrey" />
+</p>
 
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/PyTorch-gradient?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-gradient?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLOps-gradient?style=for-the-badge" />
+### AI / ML Frameworks
+<p align="center">
+PyTorch  
+<img src="https://progress-bar.dev/90/?title=PyTorch&suffix=%25&color=orange" />  
+OpenCV  
+<img src="https://progress-bar.dev/85/?title=OpenCV&suffix=%25&color=blue" />  
+Deep Learning  
+<img src="https://progress-bar.dev/90/?title=DeepLearning&suffix=%25&color=red" />  
+Machine Learning  
+<img src="https://progress-bar.dev/90/?title=ML&suffix=%25&color=green" />  
+MLOps  
+<img src="https://progress-bar.dev/75/?title=MLOps&suffix=%25&color=purple" />
+</p>
 
-  <!-- Core CS & Math -->
-  <img src="https://img.shields.io/badge/DSA-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Statistics-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linear_Algebra-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Probability-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Calculus-gradient?style=for-the-badge" />
+### Core CS & Math
+<p align="center">
+DSA  
+<img src="https://progress-bar.dev/85/?title=DSA&suffix=%25&color=red" />  
+OOP  
+<img src="https://progress-bar.dev/80/?title=OOP&suffix=%25&color=orange" />  
+Statistics  
+<img src="https://progress-bar.dev/75/?title=Statistics&suffix=%25&color=blueviolet" />  
+Linear Algebra  
+<img src="https://progress-bar.dev/80/?title=LinearAlgebra&suffix=%25&color=green" />  
+Probability  
+<img src="https://progress-bar.dev/75/?title=Probability&suffix=%25&color=yellow" />  
+Calculus  
+<img src="https://progress-bar.dev/70/?title=Calculus&suffix=%25&color=pink" />
+</p>
 
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-gradient?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-gradient?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-gradient?style=for-the-badge" />
+### Tools
+<p align="center">
+Git  
+<img src="https://progress-bar.dev/85/?title=Git&suffix=%25&color=red" />  
+VSCode  
+<img src="https://progress-bar.dev/90/?title=VSCode&suffix=%25&color=blue" />  
+Flask  
+<img src="https://progress-bar.dev/80/?title=Flask&suffix=%25&color=red" />
 </p>
 
 ---
