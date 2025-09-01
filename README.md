@@ -25,11 +25,10 @@
 
 ## 🌈 GitHub Stats
 <p align="center">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&count_private=true&theme=radical
-)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical&exclude_repo=robot-project
-)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satyajeetrai007&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyajeetrai007&layout=compact&theme=radical&exclude_repo=robot-project" />
 </p>
+
 
 ---
 
@@ -74,10 +73,12 @@
 
 ---
 
-## 🎯 Currently Learning
-<p align="center">
-🌐 Langchain, Langgraph, Langsmith | 📊 Advanced ML & Deep Learning | 🤖 IoT + Robotics Integration
-</p>
+### 🌱 Now Learning
+<img src="https://img.shields.io/badge/Langchain-%23FF6F61?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Langgraph-%2300CFFF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Langsmith-%23FFCB05?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_ML-%23C70039?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT_Robotics-%2300A86B?style=for-the-badge&logo=arduino&logoColor=white" />
 
 ---
 
