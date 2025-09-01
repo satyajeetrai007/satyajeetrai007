@@ -65,6 +65,8 @@
 [![Satyajeet's Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=satyajeetrai007&repo=Youtube-Comment-Sentiment-Analysis&theme=radical)](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis)
 [![Satyajeet's Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=satyajeetrai007&repo=Whatsapp-chat-analyzer-MultiFormat&theme=radical)](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat)
 [![Satyajeet's Pinned Repos](https://github-readme-stats.vercel.app/api/pin/?username=satyajeetrai007&repo=SMS-Spam-Classifier&theme=radical)](https://github.com/satyajeetrai007/SMS-Spam-Classifier)
+[![Query-Driven Runbook](https://github-readme-stats.vercel.app/api/pin/?username=satyajeetrai007&repo=Query-Driven-Runbook-from-Notion-Knowledge-&theme=radical)](https://github.com/satyajeetrai007/Query-Driven-Runbook-from-Notion-Knowledge-)
+
 
 
 ### 🌱 Now Learning
