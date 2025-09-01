@@ -30,7 +30,6 @@ Features: Stats, Skills, Projects, Contact, Animated Skill Bars, Aesthetic Layou
 </p>
 
 ---
-
 ## 💻 Skills & Proficiency
 
 ### Programming Languages
