@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=satyajeetrai007&color=brightgreen" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen" />
-  <img src="https://img.shields.io/badge/🌎-Portfolio-blue" />
+<!--   <img src="https://img.shields.io/badge/🌎-Portfolio-blue" /> -->
 </p>
 
 ---
