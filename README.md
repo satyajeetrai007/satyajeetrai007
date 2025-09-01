@@ -40,13 +40,7 @@
 <img src="https://img.shields.io/badge/C++-11-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<!-- Core CS & Math -->
-<img src="https://img.shields.io/badge/DSA-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistics-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linear_Algebra-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Probability-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Calculus-pink?style=for-the-badge" />
+
 
 <!-- AI / ML Frameworks -->
 <img src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -60,6 +54,14 @@
 <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-red?style=for-the-badge" />
 
+
+<!-- Core CS & Math -->
+<img src="https://img.shields.io/badge/DSA-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistics-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linear_Algebra-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Probability-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Calculus-pink?style=for-the-badge" />
 </p>
 
 ---
