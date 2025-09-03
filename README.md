@@ -14,7 +14,7 @@
 ## 🔥 About Me
 - 🎓 Final Year B.Tech Student at NIT Meghalaya  
 - 💻 Experienced in Python, C++, SQL, PyTorch, Machine Learning, Deep Learning, MLOps, Langchain.  
-- 🤖 Projects: Chrome Plugin for YT comment Sentiment Analysis, WhatsApp Chat Analyzer, Email Spam Classifier  
+- 🤖 Projects: Chrome Plugin for YT comment Sentiment Analysis,Query driven notebook from notion knowledge, WhatsApp Chat Analyzer, Email Spam Classifier  
 - 🌱 Learning: Langgraph, Langsmith  
 - 🎯 Goal: Research in AI & Data Science.  
 
