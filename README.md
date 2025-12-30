@@ -3,14 +3,6 @@
 <h1 align="center">Hi 👋, I'm Satyajeet Rai</h1>
 <h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyajeetrai007&color=brightgreen" alt="Profile views" />
-<!--   <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-brightgreen" /> -->
-<!--   <img src="https://img.shields.io/badge/🌎-Portfolio-blue" /> -->
-</p>
-
----
-
 ## 🔥 About Me
 - 🎓 Final Year B.Tech Student at NIT Meghalaya  
 - 💻 Experienced in Python, C++, SQL, PyTorch, Machine Learning, Deep Learning, MLOps, Langchain.  
