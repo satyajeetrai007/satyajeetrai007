@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Satyajeet Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">🚀 Data Science & AI Enthusiast | Robotics & Machine Learning</h3>
+<h3 align="center"> Data Science & AI Enthusiast | Robotics & Machine Learning</h3>
 
 <p align="center">
-  🎓 Final Year B.Tech Student at <b>NIT Meghalaya</b> <br>
-  🎯 <b>Goal:</b> Research in AI & Data Science
+   Final Year B.Tech Student at <b>NIT Meghalaya</b> <br>
+   <b>Goal:</b> Research in AI & Data Science
 </p>
 
 <div align="center">
@@ -23,13 +23,13 @@
 
 <br>
 
-## 🌟 Featured Projects
+## Featured Projects
 
 | Project Name | Type | Link |
 | :--- | :--- | :---: |
-| **Podcast Listening Time** | 🧠 Machine Learning | [View Project](https://github.com/satyajeetrai007/Podcast-Listening-Time) |
-| **Youtube Sentiment Analysis** | 📊 NLP / Analytics | [View Project](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis) |
-| **Whatsapp Chat Analyzer** | 📱 Data Analysis | [View Project](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat) |
+| **Podcast Listening Time** |  Machine Learning | [View Project](https://github.com/satyajeetrai007/Podcast-Listening-Time) |
+| **Youtube Sentiment Analysis** | NLP / Analytics | [View Project](https://github.com/satyajeetrai007/Youtube-Comment-Sentiment-Analysis) |
+| **Whatsapp Chat Analyzer** | Data Analysis | [View Project](https://github.com/satyajeetrai007/Whatsapp-chat-analyzer-MultiFormat) |
 
 <br>
 
